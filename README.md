@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Insomnia demo](./assets/images/insomnia-demo.png)
+
 ## Description
 
 This project is an e-commerce site's back end that utilizes the latest technologies. It is built using Express.js API and Sequelize to interact with a MySQL database. By completing this challenge, I gained practical experience with key web development technologies such as Express.js, Sequelize, MySQL, and API routes.
