@@ -4,6 +4,8 @@
 
 ![Insomnia demo](./assets/images/insomnia-demo.png)
 
+[Video Demo](https://drive.google.com/file/d/1l0JmMebR8ZDG3Hi431PlPvUTjPzob2Dv/view?usp=sharing)
+
 ## Description
 
 This project is an e-commerce site's back end that utilizes the latest technologies. It is built using Express.js API and Sequelize to interact with a MySQL database. By completing this challenge, I gained practical experience with key web development technologies such as Express.js, Sequelize, MySQL, and API routes.
